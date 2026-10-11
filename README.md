@@ -7,6 +7,7 @@ Family recipes, one markdown file each.
 ### 🥩 Mains
 
 - [Ropa Vieja](recipes/mains/ropa-vieja.md): Cuban shredded beef, oven-braised
+- [Sausage Spaghetti](recipes/mains/sausage-spaghetti.md): garlicky tomato sauce with sausage
 
 ## Adding a recipe
 
